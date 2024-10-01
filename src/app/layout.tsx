@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "JSONL Viewer and Editor",
+  title: "JSONL Wizard",
   description: "",
 };
 
